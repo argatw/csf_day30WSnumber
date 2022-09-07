@@ -1,0 +1,8 @@
+.thumbnail {
+    width: 10vw;
+    height: 15vw;
+}
+
+.center-it {
+    display: flex;
+}
